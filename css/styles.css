@@ -11314,7 +11314,7 @@ p.lead {
   font-family: "Saira Extra Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   text-transform: uppercase;
   font-weight: 500;
-  font-size: 1.5rem;
+  font-size: 1.3rem;
 }
 
 #sideNav {
@@ -11375,8 +11375,8 @@ p.lead {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  height: 3.5rem;
-  width: 3.5rem;
+  height: 2.5rem;
+  width: 2.5rem;
   background-color: #495057;
   color: #fff;
   border-radius: 100%;
@@ -11394,13 +11394,17 @@ p.lead {
   font-size: 3rem;
 }
 
+.center-text {
+  text-align: center;
+}
+
 section.resume-section {
   display: flex;
   align-items: center;
   padding-left: 1rem;
   padding-right: 1rem;
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
   max-width: 75rem;
 }
 section.resume-section .resume-section-content {
@@ -11416,7 +11420,7 @@ section.resume-section .resume-section-content {
   section.resume-section {
     padding-left: 3rem;
     padding-right: 3rem;
-    padding-top: 5rem;
-    padding-bottom: 5rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
   }
 }
